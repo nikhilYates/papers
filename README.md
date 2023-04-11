@@ -1,2 +1,2 @@
 # Papers written about new technology
-finalHDT is an ethical analysis of Health Digital Twin technology
+1. finalHDT: an ethical analysis of Health Digital Twin technology
